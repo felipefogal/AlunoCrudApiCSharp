@@ -128,3 +128,4 @@ C:\Users\felip\Documents\workspace\AlunosCrudApiCSharp\obj\Debug\net9.0\AlunosCr
 C:\Users\felip\Documents\workspace\AlunosCrudApiCSharp\obj\Debug\net9.0\AlunosCrudApiCSharp.genruntimeconfig.cache
 C:\Users\felip\Documents\workspace\AlunosCrudApiCSharp\obj\Debug\net9.0\ref\AlunosCrudApiCSharp.dll
 C:\Users\felip\Documents\workspace\AlunosCrudApiCSharp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\felip\Documents\workspace\AlunosCrudApiCSharp\obj\Debug\net9.0\AlunosCrudApiCSharp.sourcelink.json
