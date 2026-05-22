@@ -309,3 +309,5 @@ Projeto desenvolvido por Felipe Garcia Fogal para fins de estudo e prática com 
 # 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+## Readme criado com IA - ChatGPT
