@@ -69,7 +69,7 @@ Configuração atual:
 
 ```json
 "ConnectionStrings": {
-  "DefaultConnection": "server=localhost;database=alunos_db_2;user=root;password="
+  "DefaultConnection": "server=localhost;database=<database>;user=<user>;password=<password>"
 }
 ```
 
