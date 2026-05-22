@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|c:\\users\\felip\\documents\\workspace\\alunoscrudapicsharp\\src\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|solutionrelative:src\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|c:\\users\\felip\\documents\\workspace\\alunoscrudapicsharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|c:\\users\\felip\\documents\\workspace\\alunoscrudapicsharp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57C82151-DC1A-9078-8DCD-43D122CFB1B3}|AlunosCrudApiCSharp.csproj|c:\\users\\felip\\documents\\workspace\\alunoscrudapicsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,41 +34,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAiwKwBAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-22T14:32:16.685Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-22T14:26:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T00:42:41.514Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\src\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "src\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\src\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "src\\Controllers\\AlunoController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwEYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T01:15:42.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -72,12 +85,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T00:55:46.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T00:55:46.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\src\\Models\\Curso.cs",
               "RelativeDocumentMoniker": "src\\Models\\Curso.cs",
@@ -85,12 +97,11 @@
               "RelativeToolTip": "src\\Models\\Curso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T23:28:15.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T23:28:15.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Aluno.cs",
               "DocumentMoniker": "C:\\Users\\felip\\Documents\\workspace\\AlunosCrudApiCSharp\\src\\Models\\Aluno.cs",
               "RelativeDocumentMoniker": "src\\Models\\Aluno.cs",
@@ -98,8 +109,7 @@
               "RelativeToolTip": "src\\Models\\Aluno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T23:27:16.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T23:27:16.144Z"
             }
           ]
         }
